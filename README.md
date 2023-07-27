@@ -1,4 +1,4 @@
-# AndroidApplications
+# Android Application 
 ## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 This is a weight tracking application which allows a user to track their weight gain or loss. The users required a functional application which would allow them to login, store weights in a database, display their weights in a chart, set a goal weight, and enter new weights. 
 ## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
